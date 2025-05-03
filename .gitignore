@@ -38,3 +38,7 @@ terraform.rc
 
 # Ignore key files
 *.key
+
+# Ignore environment files
+.env
+.env.*
